@@ -6,7 +6,7 @@
 
 ## 📸 Aperçu
 
-![Aperçu du panier](resultat.png)
+![Aperçu du panier](result.png)
 
 ---
 
